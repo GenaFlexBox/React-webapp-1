@@ -45,7 +45,7 @@ const ImageScrollbar = ({ data }) => {
         <Box
           key={item.id}
           width={"910px"}
-          itemID={item.id}
+          itemId={item.id}
           overflow="hidden"
           p="1"
         >
